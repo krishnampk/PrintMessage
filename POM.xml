@@ -20,7 +20,6 @@
 	</distributionManagement>
 	
 <build>
-	<finalName>${artifactId}-${version}-${maven.build.timestamp}</finalName>
     <plugins>
 	<plugin>
 	          <artifactId>maven-deploy-plugin</artifactId>
